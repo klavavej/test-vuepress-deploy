@@ -17,10 +17,10 @@ jobs:
           https://github.com/errata-ai/write-good/releases/latest/download/write-good.zip
 
         # Optional
-        config: https://raw.githubusercontent.com/errata-ai/vale/master/.vale.ini
+        # config: https://raw.githubusercontent.com/errata-ai/vale/master/.vale.ini
 
         # Optional
-        files: path/to/lint
+        files: all
       env:
         # Required
         GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
