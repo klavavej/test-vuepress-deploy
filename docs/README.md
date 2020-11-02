@@ -2,12 +2,12 @@
 sidebar: auto
 title: Markdown examples
 ---
-# Markdown examples
+# Markdown examples.
 Edit on 30.04.2018 with NetlifyCMS
 
-# h1 HmHm 8-)
+# h1 HmHm 8-)!!
 
-## h2 Heading
+## h2 Heading?
 
 ### h3 Heading
 
