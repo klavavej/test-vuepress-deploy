@@ -5,7 +5,7 @@ title: Markdown examples
 # Markdown examples
 Edit on 30.04.2018 with NetlifyCMS
 
-# h1 HmHm 8-)
+# h1 this appears to be a header
 
 ## h2 Heading
 
