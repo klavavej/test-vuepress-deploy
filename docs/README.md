@@ -7,7 +7,7 @@ Edit on 30.04.2018 with NetlifyCMS
 
 # h1 HmHm 8-)
 
-## h2 Heading
+## h2 Heading appears to be a heading
 
 ### h3 Heading
 
