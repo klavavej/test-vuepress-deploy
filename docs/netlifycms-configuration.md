@@ -3,6 +3,8 @@ title: NetlifyCMS
 ---
 # NetlifyCMS
 
+he said this appears to be a file
+
 ## NetlifyCMS configuration
 
 ![NetlifyCMS](/.vuepress/dist/vuepress-deploy.jpg)
